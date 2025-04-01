@@ -9,7 +9,7 @@ A website vulnerability scanner for Kali Linux that detects XSS, SQL Injection a
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/WebBugHunter.git
+git clone https://github.com/hydraboy01/WebBugHunter.git
 cd WebBugHunter
 chmod +x webbughunter.py
 ```
